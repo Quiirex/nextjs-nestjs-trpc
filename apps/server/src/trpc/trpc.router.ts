@@ -17,7 +17,7 @@ export class TrpcRouter {
       .query(({ input }) => {
         const { name } = input;
         return {
-          greeting: `Hello ${name ? name : `Bilbo`}`,
+          greeting: `Hello ${name ? name : `Janez`}`,
         };
       }),
   });
