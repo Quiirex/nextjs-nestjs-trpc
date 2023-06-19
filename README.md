@@ -1,1 +1,1 @@
-Full-stack, end-to-end type-safe pnpm monorepo with NestJS, NextJS 13 (using /app directory) & tRPC.
+Full-stack, end-to-end type-safe pnpm monorepo with NestJS, Next.js 13 (using /app directory) & tRPC.
