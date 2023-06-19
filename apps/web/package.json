@@ -2,6 +2,8 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
+  "author": "Luka Mlinarič",
+  "description": "Next.js web app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
